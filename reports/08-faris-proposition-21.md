@@ -19,6 +19,9 @@ URL with supporting evidence of supporting:
 #### Follow Up
 Received a followup with an additional report, https://reports.nlihc.org/oor. The rest are already linked on organization's website.
 
+#### Follow Up
+A housing research associate wrote back confirming most studies are linked on the organization's website. However, I also received a report that's not linked, https://reports.nlihc.org/oor.
+
 
 ### Opposing group
 Name: No on Prop 21; Governor Gavin Newsom; California Apartment Association; Essex Property Trust; California Senior Advocates Group
@@ -80,7 +83,8 @@ E-mails sent out, no follow ups yet
 
 
 #### Follow Up
-There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it. No follow ups yet
+There are policy reports done by Stanford and Berkeley that are mentioned by the opposing group many times but were not online, I reached out to them in order to get it. No Follow Ups.
+
 
 
 <!-- Later
