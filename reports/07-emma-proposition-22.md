@@ -5,7 +5,7 @@ Proposition 22 would classify app-based drivers as "independent contractors," in
 **Main category**: Employment & Labor Markets
 
 
-## Main groups  
+## Main groups
 
 ### Supporting group
 Name: Yes on 22--Save App-Based Jobs & Services; Uber, Lyft, Instacart and DoorDash; California Chamber of Commerce; California NAACP
@@ -17,7 +17,7 @@ URL with supporting evidence of supporting:
 - https://www.theguardian.com/us-news/2020/oct/15/proposition-22-california-ballot-measure-explained  
 
 #### Follow up
-sent email to Yes on 22 on 11/6; waiting for response.  
+Yes on 22 confirmed the supporting groups listed above, and provided a complete [list of coalition organizations](https://yeson22.com/coalition/).
 
 ### Opposing group
 Name: No on Prop 22, Slam the Brakes on Uber, Lyft and DoorDash; Service Employees International Union; Joe Biden and Kamala Harris; California Teachers Association; Gig Workers Rising; Mobile Workers Alliance
@@ -31,6 +31,8 @@ URL with opposing evidence of supporting:
 
 #### Follow up
 sent email to No on 22 on 11/6; waiting for response.  
+
+Supporting group confirmed No on 22, but did not confirm other groups.
 
 ## Policy estimates
 Identify and read the main policy analyses provided by each group
@@ -56,7 +58,7 @@ Identify and read the main policy analyses provided by each group
 - None
 
 #### Follow up
-Emailed authors on 11/6; waiting for response.  
+Emailed authors on 11/6; Berkeley Research Group does not comment on client engagements.
 
 ### Presented by opposing group
 **Evidence of opponents citing this report:** https://mobilealliance.org/ca-prop-22-facts/ (cites main cost from study)
